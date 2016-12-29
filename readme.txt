@@ -7,4 +7,4 @@ lsahdflkadjlkdsa
 second exchange
 third ecchenge
 4th
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
